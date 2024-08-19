@@ -72,5 +72,10 @@ MLFLOW_TRACKING_URI=https://dagshub.com/Shivraj-Jadhav/Data_science_project_with
 
 ![3](https://github.com/user-attachments/assets/71c465c7-6a31-4ada-88f6-bac118f58932)
 
+![image](https://github.com/user-attachments/assets/11f882a8-ab90-4a5d-a6e0-7d2af63725c2)
+
+![image](https://github.com/user-attachments/assets/08393099-59b3-46ec-9023-80d8d6aa8269)
+
+
 
 
