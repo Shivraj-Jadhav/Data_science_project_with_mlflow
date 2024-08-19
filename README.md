@@ -63,7 +63,16 @@ open up you local host and port
 ### dagshub
 [dagshub](https://dagshub.com/)
 
+
 MLFLOW_TRACKING_URI=https://dagshub.com/Shivraj-Jadhav/Data_science_project_with_mlflow.mlflow
+
+![2](https://github.com/user-attachments/assets/496ae69a-1efe-42dc-b587-da7016abad1a)
+
+
+![1](https://github.com/user-attachments/assets/21d0bd17-1af2-4659-ade3-90f499de3f16)
+
+
+![image](https://github.com/user-attachments/assets/263fe45c-c4c9-4e4b-a871-bf0c9bba1ed7)
 
 
 
