@@ -1,0 +1,15 @@
+artifact_uri: file:///S:/Projects/Data_science_project_with_mlflow/mlruns/0/159605c1af6e4412923f8f497f61b403/artifacts
+end_time: 1724028960843
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 159605c1af6e4412923f8f497f61b403
+run_name: learned-wasp-234
+run_uuid: 159605c1af6e4412923f8f497f61b403
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724028946643
+status: 3
+tags: []
+user_id: jadha

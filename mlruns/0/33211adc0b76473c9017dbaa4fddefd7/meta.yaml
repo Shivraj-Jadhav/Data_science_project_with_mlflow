@@ -1,0 +1,15 @@
+artifact_uri: file:///S:/Projects/Data_science_project_with_mlflow/mlruns/0/33211adc0b76473c9017dbaa4fddefd7/artifacts
+end_time: 1724029030663
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 33211adc0b76473c9017dbaa4fddefd7
+run_name: agreeable-crane-688
+run_uuid: 33211adc0b76473c9017dbaa4fddefd7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724029022554
+status: 3
+tags: []
+user_id: jadha

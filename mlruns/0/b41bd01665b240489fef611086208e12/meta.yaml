@@ -1,0 +1,15 @@
+artifact_uri: file:///S:/Projects/Data_science_project_with_mlflow/mlruns/0/b41bd01665b240489fef611086208e12/artifacts
+end_time: 1724029596127
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b41bd01665b240489fef611086208e12
+run_name: merciful-perch-908
+run_uuid: b41bd01665b240489fef611086208e12
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724029588617
+status: 3
+tags: []
+user_id: jadha
