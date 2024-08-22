@@ -9,7 +9,7 @@ __version__ = "0.0.0"
 REPO_NAME = "Data_science_project_with_mlflow"
 AUTHOR_USER_NAME = "Shivraj-Jadhav"
 SRC_REPO = "mlProject"
-AUTHOR_EMAIL = "sj81898@gmail.com"
+AUTHOR_EMAIL = "your_email"
 
 
 setuptools.setup(
