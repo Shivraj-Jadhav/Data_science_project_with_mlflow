@@ -59,7 +59,7 @@ except Exception as e:
 STAGE_NAME = "Model evaluation stage"
 os.environ["MLFLOW_TRACKING_URI"]="https://dagshub.com/Shivraj-Jadhav/Data_science_project_with_mlflow.mlflow"
 os.environ["MLFLOW_TRACKING_USERNAME"]="Shivraj-Jadhav"
-os.environ["MLFLOW_TRACKING_PASSWORD"]="93dc3b35e8f9102932c713f62fc5f3d638a55ef5"
+os.environ["MLFLOW_TRACKING_PASSWORD"]="your_password"
 try:
    logger.info(f">>>>>> stage {STAGE_NAME} started <<<<<<") 
    data_ingestion = ModelEvaluationTrainingPipeline()
