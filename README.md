@@ -1,8 +1,8 @@
 # Data_science_project_with_mlflow
 1. Data Ingestion:
 
-Downloads a file from a specified URL and saves it locally.
-Checks if the file already exists and avoids redundant downloads.
+- Downloads a file from a specified URL and saves it locally.
+- Checks if the file already exists and avoids redundant downloads.
 Extracts the data from a zip file if applicable.
 2. Data Validation:
 
