@@ -2,37 +2,37 @@
 1. Data Ingestion:
 
 Downloads a file from a specified URL and saves it locally.</br>
-Checks if the file already exists and avoids redundant downloads.
-Extracts the data from a zip file if applicable.
+Checks if the file already exists and avoids redundant downloads.</br>
+Extracts the data from a zip file if applicable.</br>
 2. Data Validation:
 
-Reads the downloaded CSV file.
-Checks for missing values and reports the status.
-Validates if all columns present in the data match the expected schema.
+Reads the downloaded CSV file.</br>
+Checks for missing values and reports the status.</br>
+Validates if all columns present in the data match the expected schema.</br>
 3. Data Transformation:
 
-Splits the data into training and testing sets using train_test_split from scikit-learn.
-Saves the resulting train and test datasets as separate CSV files.
+Splits the data into training and testing sets using train_test_split from scikit-learn.</br>
+Saves the resulting train and test datasets as separate CSV files.</br>
 4. Model Trainer:
 
-Defines a configuration class to hold model training parameters.
-Reads configurations from YAML files and sets hyper-parameters.
-Performs a grid search to identify the best hyper-parameters for the ElasticNet model.
-Trains the ElasticNet model on the training data with the chosen hyper-parameters.
-Saves the trained model using joblib.
+Defines a configuration class to hold model training parameters.</br>
+Reads configurations from YAML files and sets hyper-parameters.</br>
+Performs a grid search to identify the best hyper-parameters for the ElasticNet model.</br>
+Trains the ElasticNet model on the training data with the chosen hyper-parameters.</br>
+Saves the trained model using joblib.</br>
 5. Model Evaluation:
 
-Defines a configuration class for model evaluation parameters.
-Reads configurations from YAML files and sets evaluation parameters.
-Loads the trained model and test data.
-Evaluates the model's performance using metrics like RMSE, MAE, and R2.
-Logs model parameters, metrics, and evaluation scores to MLflow for tracking.
+Defines a configuration class for model evaluation parameters.</br>
+Reads configurations from YAML files and sets evaluation parameters.</br>
+Loads the trained model and test data.</br>
+Evaluates the model's performance using metrics like RMSE, MAE, and R2.</br>
+Logs model parameters, metrics, and evaluation scores to MLflow for tracking.</br>
 Overall, the code demonstrates a well-organized and modular approach to building an ML pipeline. Here are some additional points to consider:
 
-Error Handling: While there's basic exception handling using CustomException, consider adding more specific exceptions for different scenarios.
-Logging: The code uses basic info logging, you might want to explore more comprehensive logging libraries for detailed tracking.
-Configuration Management: Consider using environment variables or a dedicated configuration management tool for more flexible configuration management.
-Testing: Implementing unit tests for individual components would ensure code robustness.
+Error Handling: While there's basic exception handling using CustomException, consider adding more specific exceptions for different scenarios.</br>
+Logging: The code uses basic info logging, you might want to explore more comprehensive logging libraries for detailed tracking.</br>
+Configuration Management: Consider using environment variables or a dedicated configuration management tool for more flexible configuration management.</br>
+Testing: Implementing unit tests for individual components would ensure code robustness.</br>
 
 
 ## Workflow
